@@ -1,2546 +1,2546 @@
 <Manufacturers>
   <Manufacturer>
     <Name>A.X.I.</Name>
-    <ID>12287</ID>
+    <ID>1</ID>
     <ProviderID>1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ACES</Name>
-    <ID>12288</ID>
+    <ID>2</ID>
     <ProviderID>2</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ACM</Name>
-    <ID>12289</ID>
+    <ID>3</ID>
     <ProviderID>3</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ACTIVE</Name>
-    <ID>12290</ID>
+    <ID>4</ID>
     <ProviderID>4</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AGRI</Name>
-    <ID>12291</ID>
+    <ID>5</ID>
     <ProviderID>5</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AICHI</Name>
-    <ID>12292</ID>
+    <ID>6</ID>
     <ProviderID>6</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AIRMAN</Name>
-    <ID>12293</ID>
+    <ID>7</ID>
     <ProviderID>7</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AIRMAN-FOREDIL</Name>
-    <ID>12294</ID>
+    <ID>8</ID>
     <ProviderID>8</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ALIVA</Name>
-    <ID>12295</ID>
+    <ID>9</ID>
     <ProviderID>9</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ALLTRACK</Name>
-    <ID>12296</ID>
+    <ID>10</ID>
     <ProviderID>10</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ALPINA</Name>
-    <ID>12297</ID>
+    <ID>11</ID>
     <ProviderID>11</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AMERICAN DIRECTIONAL DRILL</Name>
-    <ID>12298</ID>
+    <ID>12</ID>
     <ProviderID>12</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AMERIQUIP EAGLE</Name>
-    <ID>12299</ID>
+    <ID>13</ID>
     <ProviderID>13</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ANGEL</Name>
-    <ID>12300</ID>
+    <ID>14</ID>
     <ProviderID>14</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ANTEC</Name>
-    <ID>12301</ID>
+    <ID>15</ID>
     <ProviderID>15</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>APAGEO</Name>
-    <ID>12302</ID>
+    <ID>16</ID>
     <ProviderID>16</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AROS China</Name>
-    <ID>12303</ID>
+    <ID>17</ID>
     <ProviderID>17</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ASTEC</Name>
-    <ID>12304</ID>
+    <ID>18</ID>
     <ProviderID>18</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ASV</Name>
-    <ID>12305</ID>
+    <ID>19</ID>
     <ProviderID>19</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ATALAY</Name>
-    <ID>12306</ID>
+    <ID>20</ID>
     <ProviderID>20</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ATEX</Name>
-    <ID>12307</ID>
+    <ID>21</ID>
     <ProviderID>21</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ATLAS</Name>
-    <ID>12308</ID>
+    <ID>22</ID>
     <ProviderID>22</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ATN</Name>
-    <ID>12309</ID>
+    <ID>23</ID>
     <ProviderID>23</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AUSA</Name>
-    <ID>12310</ID>
+    <ID>24</ID>
     <ProviderID>24</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AVANT TECNO</Name>
-    <ID>12311</ID>
+    <ID>25</ID>
     <ProviderID>25</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>AWASI</Name>
-    <ID>12312</ID>
+    <ID>26</ID>
     <ProviderID>26</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BABY DRILL</Name>
-    <ID>12313</ID>
+    <ID>27</ID>
     <ProviderID>27</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BABYACK</Name>
-    <ID>12314</ID>
+    <ID>28</ID>
     <ProviderID>28</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BAMBY &amp; Co</Name>
-    <ID>12315</ID>
+    <ID>29</ID>
     <ProviderID>29</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BANDIT</Name>
-    <ID>12316</ID>
+    <ID>30</ID>
     <ProviderID>30</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BARALDI</Name>
-    <ID>12317</ID>
+    <ID>31</ID>
     <ProviderID>31</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BARATTI</Name>
-    <ID>12318</ID>
+    <ID>32</ID>
     <ProviderID>32</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BARONESS</Name>
-    <ID>12319</ID>
+    <ID>33</ID>
     <ProviderID>33</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BASKET</Name>
-    <ID>12320</ID>
+    <ID>34</ID>
     <ProviderID>34</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BASTEI</Name>
-    <ID>12321</ID>
+    <ID>35</ID>
     <ProviderID>35</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BEACH TRACK</Name>
-    <ID>12322</ID>
+    <ID>36</ID>
     <ProviderID>36</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BELLE</Name>
-    <ID>12323</ID>
+    <ID>37</ID>
     <ProviderID>37</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BELLON MARIA</Name>
-    <ID>12324</ID>
+    <ID>38</ID>
     <ProviderID>38</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BENATI</Name>
-    <ID>12325</ID>
+    <ID>39</ID>
     <ProviderID>39</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BENFRA</Name>
-    <ID>12326</ID>
+    <ID>40</ID>
     <ProviderID>40</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BENTRAC</Name>
-    <ID>12327</ID>
+    <ID>41</ID>
     <ProviderID>41</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BERETTA</Name>
-    <ID>12328</ID>
+    <ID>42</ID>
     <ProviderID>42</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BERGMANN</Name>
-    <ID>12329</ID>
+    <ID>43</ID>
     <ProviderID>43</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BERTANI</Name>
-    <ID>12330</ID>
+    <ID>44</ID>
     <ProviderID>44</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BERTOLINI</Name>
-    <ID>12331</ID>
+    <ID>45</ID>
     <ProviderID>45</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BETRAM</Name>
-    <ID>12332</ID>
+    <ID>46</ID>
     <ProviderID>46</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BITELLI</Name>
-    <ID>12333</ID>
+    <ID>47</ID>
     <ProviderID>47</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BIZAWA</Name>
-    <ID>12334</ID>
+    <ID>48</ID>
     <ProviderID>48</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BLUELIFT</Name>
-    <ID>12335</ID>
+    <ID>49</ID>
     <ProviderID>49</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BOART</Name>
-    <ID>12336</ID>
+    <ID>50</ID>
     <ProviderID>50</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BOBCAT</Name>
-    <ID>12337</ID>
+    <ID>51</ID>
     <ProviderID>51</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BONNE ESPERANCE</Name>
-    <ID>12338</ID>
+    <ID>52</ID>
     <ProviderID>52</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BORMOR</Name>
-    <ID>12339</ID>
+    <ID>53</ID>
     <ProviderID>53</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BOXER</Name>
-    <ID>12340</ID>
+    <ID>54</ID>
     <ProviderID>54</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BROKK</Name>
-    <ID>12341</ID>
+    <ID>55</ID>
     <ProviderID>55</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>C.E.L.A.</Name>
-    <ID>12342</ID>
+    <ID>56</ID>
     <ProviderID>56</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CAMECA</Name>
-    <ID>12343</ID>
+    <ID>57</ID>
     <ProviderID>57</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CAMISA</Name>
-    <ID>12344</ID>
+    <ID>58</ID>
     <ProviderID>58</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CAMS LIBRA</Name>
-    <ID>12345</ID>
+    <ID>59</ID>
     <ProviderID>59</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CANEL SUD</Name>
-    <ID>12346</ID>
+    <ID>60</ID>
     <ProviderID>60</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CAPITAL</Name>
-    <ID>12347</ID>
+    <ID>61</ID>
     <ProviderID>61</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CARMIX</Name>
-    <ID>12348</ID>
+    <ID>62</ID>
     <ProviderID>62</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CARRIER</Name>
-    <ID>12349</ID>
+    <ID>63</ID>
     <ProviderID>63</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CARTER</Name>
-    <ID>12350</ID>
+    <ID>64</ID>
     <ProviderID>64</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CASE</Name>
-    <ID>12351</ID>
+    <ID>65</ID>
     <ProviderID>65</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CAT</Name>
-    <ID>12352</ID>
+    <ID>66</ID>
     <ProviderID>66</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CEASAR</Name>
-    <ID>12353</ID>
+    <ID>67</ID>
     <ProviderID>67</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CELLI</Name>
-    <ID>12354</ID>
+    <ID>68</ID>
     <ProviderID>68</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CHIEFTAN</Name>
-    <ID>12355</ID>
+    <ID>69</ID>
     <ProviderID>69</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CHIKUSUI / CANYCOM</Name>
-    <ID>12356</ID>
+    <ID>70</ID>
     <ProviderID>70</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CLAAS</Name>
-    <ID>12357</ID>
+    <ID>71</ID>
     <ProviderID>71</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CME</Name>
-    <ID>12358</ID>
+    <ID>72</ID>
     <ProviderID>72</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>COLLINA</Name>
-    <ID>12359</ID>
+    <ID>73</ID>
     <ProviderID>73</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>COMECA</Name>
-    <ID>12360</ID>
+    <ID>74</ID>
     <ProviderID>74</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>COMET</Name>
-    <ID>12361</ID>
+    <ID>75</ID>
     <ProviderID>75</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>COMMANDER</Name>
-    <ID>12362</ID>
+    <ID>76</ID>
     <ProviderID>76</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>COMOTER</Name>
-    <ID>12363</ID>
+    <ID>77</ID>
     <ProviderID>77</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>COMPAIR HOLMAN</Name>
-    <ID>12364</ID>
+    <ID>78</ID>
     <ProviderID>78</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CONJET</Name>
-    <ID>12365</ID>
+    <ID>79</ID>
     <ProviderID>79</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CONSTRUCTION MACHINERY SERVICE</Name>
-    <ID>12366</ID>
+    <ID>80</ID>
     <ProviderID>80</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CORMIDI</Name>
-    <ID>12367</ID>
+    <ID>81</ID>
     <ProviderID>81</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DAEWOO</Name>
-    <ID>12368</ID>
+    <ID>82</ID>
     <ProviderID>82</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>Dando Terrier Drive Sample rig</Name>
-    <ID>12369</ID>
+    <ID>83</ID>
     <ProviderID>83</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DEERE</Name>
-    <ID>12370</ID>
+    <ID>84</ID>
     <ProviderID>84</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DIMEX</Name>
-    <ID>12371</ID>
+    <ID>85</ID>
     <ProviderID>85</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DITCH WITCH</Name>
-    <ID>12372</ID>
+    <ID>86</ID>
     <ProviderID>86</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DODICH</Name>
-    <ID>12373</ID>
+    <ID>87</ID>
     <ProviderID>87</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DOMINE</Name>
-    <ID>12374</ID>
+    <ID>88</ID>
     <ProviderID>88</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DOOSAN</Name>
-    <ID>12375</ID>
+    <ID>89</ID>
     <ProviderID>89</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DRAGO</Name>
-    <ID>12376</ID>
+    <ID>90</ID>
     <ProviderID>90</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DUMEC</Name>
-    <ID>12377</ID>
+    <ID>91</ID>
     <ProviderID>91</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DURSO</Name>
-    <ID>12378</ID>
+    <ID>92</ID>
     <ProviderID>92</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>DYNAPAC</Name>
-    <ID>12379</ID>
+    <ID>93</ID>
     <ProviderID>93</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ECKART</Name>
-    <ID>12380</ID>
+    <ID>94</ID>
     <ProviderID>94</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ECOMECA</Name>
-    <ID>12381</ID>
+    <ID>95</ID>
     <ProviderID>95</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EFCO</Name>
-    <ID>12382</ID>
+    <ID>96</ID>
     <ProviderID>96</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ELECTRO JOE</Name>
-    <ID>12383</ID>
+    <ID>97</ID>
     <ProviderID>97</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EMCI</Name>
-    <ID>12384</ID>
+    <ID>98</ID>
     <ProviderID>98</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ENTECO</Name>
-    <ID>12385</ID>
+    <ID>99</ID>
     <ProviderID>99</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ERREPPI</Name>
-    <ID>12386</ID>
+    <ID>100</ID>
     <ProviderID>100</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ETEC</Name>
-    <ID>12387</ID>
+    <ID>101</ID>
     <ProviderID>101</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EUROCAT</Name>
-    <ID>12388</ID>
+    <ID>102</ID>
     <ProviderID>102</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EUROCOMACH</Name>
-    <ID>12389</ID>
+    <ID>103</ID>
     <ProviderID>103</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EURODIG</Name>
-    <ID>12390</ID>
+    <ID>104</ID>
     <ProviderID>104</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EUROFOR</Name>
-    <ID>12391</ID>
+    <ID>105</ID>
     <ProviderID>105</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EUROTOM</Name>
-    <ID>12392</ID>
+    <ID>106</ID>
     <ProviderID>106</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EUROTRAC</Name>
-    <ID>12393</ID>
+    <ID>107</ID>
     <ProviderID>107</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FAI</Name>
-    <ID>12394</ID>
+    <ID>108</ID>
     <ProviderID>108</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FALCON SPIDER</Name>
-    <ID>12395</ID>
+    <ID>109</ID>
     <ProviderID>109</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FDI SAMBRON</Name>
-    <ID>12396</ID>
+    <ID>110</ID>
     <ProviderID>110</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FERCAD</Name>
-    <ID>12397</ID>
+    <ID>111</ID>
     <ProviderID>111</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FERMEC</Name>
-    <ID>12398</ID>
+    <ID>112</ID>
     <ProviderID>112</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FIAT-HITACHI</Name>
-    <ID>12399</ID>
+    <ID>113</ID>
     <ProviderID>113</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FINMAC</Name>
-    <ID>12400</ID>
+    <ID>114</ID>
     <ProviderID>114</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FIORI</Name>
-    <ID>12401</ID>
+    <ID>115</ID>
     <ProviderID>115</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FOCKERBERGER</Name>
-    <ID>12402</ID>
+    <ID>116</ID>
     <ProviderID>116</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FOREDIL</Name>
-    <ID>12403</ID>
+    <ID>117</ID>
     <ProviderID>117</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FORT</Name>
-    <ID>12404</ID>
+    <ID>118</ID>
     <ProviderID>118</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FORTI</Name>
-    <ID>12405</ID>
+    <ID>119</ID>
     <ProviderID>119</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FRASTE</Name>
-    <ID>12406</ID>
+    <ID>120</ID>
     <ProviderID>120</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FURUKAWA</Name>
-    <ID>12407</ID>
+    <ID>121</ID>
     <ProviderID>121</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GEHL</Name>
-    <ID>12408</ID>
+    <ID>122</ID>
     <ProviderID>122</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GEHLMAX</Name>
-    <ID>12409</ID>
+    <ID>123</ID>
     <ProviderID>123</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GEIER</Name>
-    <ID>12410</ID>
+    <ID>124</ID>
     <ProviderID>124</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GELAI &amp; CASTEGNARO</Name>
-    <ID>12411</ID>
+    <ID>125</ID>
     <ProviderID>125</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GENIE</Name>
-    <ID>12412</ID>
+    <ID>126</ID>
     <ProviderID>126</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GEOPROBE SYSTEMS</Name>
-    <ID>12413</ID>
+    <ID>127</ID>
     <ProviderID>127</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GEOTOOL</Name>
-    <ID>12414</ID>
+    <ID>128</ID>
     <ProviderID>128</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GREEN MECH</Name>
-    <ID>12415</ID>
+    <ID>129</ID>
     <ProviderID>129</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GREEN TECHNIK</Name>
-    <ID>12416</ID>
+    <ID>130</ID>
     <ProviderID>130</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GRILLO</Name>
-    <ID>12417</ID>
+    <ID>131</ID>
     <ProviderID>131</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GRIZZLY</Name>
-    <ID>12418</ID>
+    <ID>132</ID>
     <ProviderID>132</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GRUNDODRILL</Name>
-    <ID>12419</ID>
+    <ID>133</ID>
     <ProviderID>133</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GRUNDOHIT</Name>
-    <ID>12420</ID>
+    <ID>134</ID>
     <ProviderID>134</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GUANGXI</Name>
-    <ID>12421</ID>
+    <ID>135</ID>
     <ProviderID>135</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>GUIDETTI</Name>
-    <ID>12422</ID>
+    <ID>136</ID>
     <ProviderID>136</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HAINZL</Name>
-    <ID>12423</ID>
+    <ID>137</ID>
     <ProviderID>137</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HALLA</Name>
-    <ID>12424</ID>
+    <ID>138</ID>
     <ProviderID>138</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HANIX</Name>
-    <ID>12425</ID>
+    <ID>139</ID>
     <ProviderID>139</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HANTA</Name>
-    <ID>12426</ID>
+    <ID>140</ID>
     <ProviderID>140</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HAULOTTE</Name>
-    <ID>12427</ID>
+    <ID>141</ID>
     <ProviderID>141</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HCC</Name>
-    <ID>12428</ID>
+    <ID>142</ID>
     <ProviderID>142</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HELITRAX</Name>
-    <ID>12429</ID>
+    <ID>143</ID>
     <ProviderID>143</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HEMATEC</Name>
-    <ID>12430</ID>
+    <ID>144</ID>
     <ProviderID>144</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HIAB</Name>
-    <ID>12431</ID>
+    <ID>145</ID>
     <ProviderID>145</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HINOWA</Name>
-    <ID>12432</ID>
+    <ID>146</ID>
     <ProviderID>146</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HITACHI</Name>
-    <ID>12433</ID>
+    <ID>147</ID>
     <ProviderID>147</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HOKUETSU</Name>
-    <ID>12434</ID>
+    <ID>148</ID>
     <ProviderID>148</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HOLMAC</Name>
-    <ID>12435</ID>
+    <ID>149</ID>
     <ProviderID>149</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HOLMAN</Name>
-    <ID>12436</ID>
+    <ID>150</ID>
     <ProviderID>150</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HOLMED</Name>
-    <ID>12437</ID>
+    <ID>151</ID>
     <ProviderID>151</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HONDA</Name>
-    <ID>12438</ID>
+    <ID>152</ID>
     <ProviderID>152</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HUKI</Name>
-    <ID>12439</ID>
+    <ID>153</ID>
     <ProviderID>153</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HUSQVARNA</Name>
-    <ID>12440</ID>
+    <ID>154</ID>
     <ProviderID>154</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HUTTE</Name>
-    <ID>12441</ID>
+    <ID>155</ID>
     <ProviderID>155</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HUTTER</Name>
-    <ID>12442</ID>
+    <ID>156</ID>
     <ProviderID>156</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HYDRA</Name>
-    <ID>12443</ID>
+    <ID>157</ID>
     <ProviderID>157</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HYDRAMAC</Name>
-    <ID>12444</ID>
+    <ID>158</ID>
     <ProviderID>158</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HYDRO RAIN</Name>
-    <ID>12445</ID>
+    <ID>159</ID>
     <ProviderID>159</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HYUNDAI</Name>
-    <ID>12446</ID>
+    <ID>160</ID>
     <ProviderID>160</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IBEA</Name>
-    <ID>12447</ID>
+    <ID>161</ID>
     <ProviderID>161</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ICE (Internationalstruction Equipment Inc.)</Name>
-    <ID>12448</ID>
+    <ID>162</ID>
     <ProviderID>162</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IHI</Name>
-    <ID>12449</ID>
+    <ID>163</ID>
     <ProviderID>163</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IMAI</Name>
-    <ID>12450</ID>
+    <ID>164</ID>
     <ProviderID>164</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IMEF</Name>
-    <ID>12451</ID>
+    <ID>165</ID>
     <ProviderID>165</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IMER</Name>
-    <ID>12452</ID>
+    <ID>166</ID>
     <ProviderID>166</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>INOVA</Name>
-    <ID>12453</ID>
+    <ID>167</ID>
     <ProviderID>167</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IROS</Name>
-    <ID>12454</ID>
+    <ID>168</ID>
     <ProviderID>168</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ISEKI</Name>
-    <ID>12455</ID>
+    <ID>169</ID>
     <ProviderID>169</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ITALMEC</Name>
-    <ID>12456</ID>
+    <ID>170</ID>
     <ProviderID>170</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IWAFUJI</Name>
-    <ID>12457</ID>
+    <ID>171</ID>
     <ProviderID>171</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>JCB</Name>
-    <ID>12458</ID>
+    <ID>172</ID>
     <ProviderID>172</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>JLG</Name>
-    <ID>12459</ID>
+    <ID>173</ID>
     <ProviderID>173</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>JOLLY</Name>
-    <ID>12460</ID>
+    <ID>174</ID>
     <ProviderID>174</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>JOLY</Name>
-    <ID>12461</ID>
+    <ID>175</ID>
     <ProviderID>175</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KAIDI</Name>
-    <ID>12462</ID>
+    <ID>176</ID>
     <ProviderID>176</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KATO</Name>
-    <ID>12463</ID>
+    <ID>177</ID>
     <ProviderID>177</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KAWASAKI</Name>
-    <ID>12464</ID>
+    <ID>178</ID>
     <ProviderID>178</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KESMAC</Name>
-    <ID>12465</ID>
+    <ID>179</ID>
     <ProviderID>179</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KOBASCHI</Name>
-    <ID>12466</ID>
+    <ID>180</ID>
     <ProviderID>180</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KOBELCO</Name>
-    <ID>12467</ID>
+    <ID>181</ID>
     <ProviderID>181</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KOMATSU</Name>
-    <ID>12468</ID>
+    <ID>182</ID>
     <ProviderID>182</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>KUBOTA</Name>
-    <ID>12469</ID>
+    <ID>183</ID>
     <ProviderID>183</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LEADER</Name>
-    <ID>12470</ID>
+    <ID>184</ID>
     <ProviderID>184</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LEGUAN</Name>
-    <ID>12471</ID>
+    <ID>185</ID>
     <ProviderID>185</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LEO</Name>
-    <ID>12472</ID>
+    <ID>186</ID>
     <ProviderID>186</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LG</Name>
-    <ID>12473</ID>
+    <ID>187</ID>
     <ProviderID>187</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LIBRA</Name>
-    <ID>12474</ID>
+    <ID>188</ID>
     <ProviderID>188</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LIBRA Compact</Name>
-    <ID>12475</ID>
+    <ID>189</ID>
     <ProviderID>189</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LIFTON</Name>
-    <ID>12476</ID>
+    <ID>190</ID>
     <ProviderID>190</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LINK-BELT</Name>
-    <ID>12477</ID>
+    <ID>191</ID>
     <ProviderID>191</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LIONLIFT</Name>
-    <ID>12478</ID>
+    <ID>192</ID>
     <ProviderID>192</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LIU GONG</Name>
-    <ID>12479</ID>
+    <ID>193</ID>
     <ProviderID>193</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LOCUST</Name>
-    <ID>12480</ID>
+    <ID>194</ID>
     <ProviderID>194</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MACMOTER</Name>
-    <ID>12481</ID>
+    <ID>195</ID>
     <ProviderID>195</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MADRO</Name>
-    <ID>12482</ID>
+    <ID>196</ID>
     <ProviderID>196</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MAEDA</Name>
-    <ID>12483</ID>
+    <ID>197</ID>
     <ProviderID>197</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MAFROCO</Name>
-    <ID>12484</ID>
+    <ID>198</ID>
     <ProviderID>198</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MAIT</Name>
-    <ID>12485</ID>
+    <ID>199</ID>
     <ProviderID>199</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MANITOU</Name>
-    <ID>12486</ID>
+    <ID>200</ID>
     <ProviderID>200</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MASSEY FERGUSON</Name>
-    <ID>12487</ID>
+    <ID>201</ID>
     <ProviderID>201</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MAWECO</Name>
-    <ID>12488</ID>
+    <ID>202</ID>
     <ProviderID>202</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MAXIMA</Name>
-    <ID>12489</ID>
+    <ID>203</ID>
     <ProviderID>203</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MBU</Name>
-    <ID>12490</ID>
+    <ID>204</ID>
     <ProviderID>204</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MC ELROY</Name>
-    <ID>12491</ID>
+    <ID>205</ID>
     <ProviderID>205</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MECALAC</Name>
-    <ID>12492</ID>
+    <ID>206</ID>
     <ProviderID>206</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MECANICA BENASSI</Name>
-    <ID>12493</ID>
+    <ID>207</ID>
     <ProviderID>207</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>Mecanizacion y mineria sa</Name>
-    <ID>12494</ID>
+    <ID>208</ID>
     <ProviderID>208</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MECBO</Name>
-    <ID>12495</ID>
+    <ID>209</ID>
     <ProviderID>209</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MEINL</Name>
-    <ID>12496</ID>
+    <ID>210</ID>
     <ProviderID>210</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MENZI MUCK</Name>
-    <ID>12497</ID>
+    <ID>211</ID>
     <ProviderID>211</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MERLO</Name>
-    <ID>12498</ID>
+    <ID>212</ID>
     <ProviderID>212</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MERTZ</Name>
-    <ID>12499</ID>
+    <ID>213</ID>
     <ProviderID>213</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MESSERSI</Name>
-    <ID>12500</ID>
+    <ID>214</ID>
     <ProviderID>214</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINI MUSTANG</Name>
-    <ID>12501</ID>
+    <ID>215</ID>
     <ProviderID>215</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINI-X</Name>
-    <ID>12502</ID>
+    <ID>216</ID>
     <ProviderID>216</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINICARRIER</Name>
-    <ID>12503</ID>
+    <ID>217</ID>
     <ProviderID>217</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINICRUSHER</Name>
-    <ID>12504</ID>
+    <ID>218</ID>
     <ProviderID>218</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINIDIG</Name>
-    <ID>12505</ID>
+    <ID>219</ID>
     <ProviderID>219</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINTRAC</Name>
-    <ID>12506</ID>
+    <ID>220</ID>
     <ProviderID>220</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MIRA</Name>
-    <ID>12507</ID>
+    <ID>221</ID>
     <ProviderID>221</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MITSUBISHI</Name>
-    <ID>12508</ID>
+    <ID>222</ID>
     <ProviderID>222</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MOBY</Name>
-    <ID>12509</ID>
+    <ID>223</ID>
     <ProviderID>223</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MOPAS</Name>
-    <ID>12510</ID>
+    <ID>224</ID>
     <ProviderID>224</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MORATH</Name>
-    <ID>12511</ID>
+    <ID>225</ID>
     <ProviderID>225</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MOROOKA</Name>
-    <ID>12512</ID>
+    <ID>226</ID>
     <ProviderID>226</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MORRISH</Name>
-    <ID>12513</ID>
+    <ID>227</ID>
     <ProviderID>227</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MULAG</Name>
-    <ID>12514</ID>
+    <ID>228</ID>
     <ProviderID>228</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MULTIDRILL</Name>
-    <ID>12515</ID>
+    <ID>229</ID>
     <ProviderID>229</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MUSTANG</Name>
-    <ID>12516</ID>
+    <ID>230</ID>
     <ProviderID>230</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NAGANO</Name>
-    <ID>12517</ID>
+    <ID>231</ID>
     <ProviderID>231</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NAGANO Highland</Name>
-    <ID>12518</ID>
+    <ID>232</ID>
     <ProviderID>232</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NANTE</Name>
-    <ID>12519</ID>
+    <ID>233</ID>
     <ProviderID>233</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NAVAGO</Name>
-    <ID>12520</ID>
+    <ID>234</ID>
     <ProviderID>234</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NAVIGATOR</Name>
-    <ID>12521</ID>
+    <ID>235</ID>
     <ProviderID>235</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NEINL</Name>
-    <ID>12522</ID>
+    <ID>236</ID>
     <ProviderID>236</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NEMAG</Name>
-    <ID>12523</ID>
+    <ID>237</ID>
     <ProviderID>237</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NEUSON</Name>
-    <ID>12524</ID>
+    <ID>238</ID>
     <ProviderID>238</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NEW HOLLAND</Name>
-    <ID>12525</ID>
+    <ID>239</ID>
     <ProviderID>239</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NIBBI</Name>
-    <ID>12526</ID>
+    <ID>240</ID>
     <ProviderID>240</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NIFTY</Name>
-    <ID>12527</ID>
+    <ID>241</ID>
     <ProviderID>241</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NIHON FLEX</Name>
-    <ID>12528</ID>
+    <ID>242</ID>
     <ProviderID>242</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NIHON FREKI</Name>
-    <ID>12529</ID>
+    <ID>243</ID>
     <ProviderID>243</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NIKO</Name>
-    <ID>12530</ID>
+    <ID>244</ID>
     <ProviderID>244</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NISHIO</Name>
-    <ID>12531</ID>
+    <ID>245</ID>
     <ProviderID>245</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NISSAN</Name>
-    <ID>12532</ID>
+    <ID>246</ID>
     <ProviderID>246</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NORDMEYER</Name>
-    <ID>12533</ID>
+    <ID>247</ID>
     <ProviderID>247</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>NOZAWA</Name>
-    <ID>12534</ID>
+    <ID>248</ID>
     <ProviderID>248</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>O&amp;K (ORESTEIN &amp; KOPPEL)</Name>
-    <ID>12535</ID>
+    <ID>249</ID>
     <ProviderID>249</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>OCTOPUSSY</Name>
-    <ID>12536</ID>
+    <ID>250</ID>
     <ProviderID>250</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>OELLE</Name>
-    <ID>12537</ID>
+    <ID>251</ID>
     <ProviderID>251</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>OMEGA LIFT</Name>
-    <ID>12538</ID>
+    <ID>252</ID>
     <ProviderID>252</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>OPERA</Name>
-    <ID>12539</ID>
+    <ID>253</ID>
     <ProviderID>253</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>OPTIMAS</Name>
-    <ID>12540</ID>
+    <ID>254</ID>
     <ProviderID>254</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ORMAC</Name>
-    <ID>12541</ID>
+    <ID>255</ID>
     <ProviderID>255</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ORTECO</Name>
-    <ID>12542</ID>
+    <ID>256</ID>
     <ProviderID>256</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PACTRAC</Name>
-    <ID>12543</ID>
+    <ID>257</ID>
     <ProviderID>257</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PAGANI GEOTECHNICAL EQUIPMENT</Name>
-    <ID>12544</ID>
+    <ID>258</ID>
     <ProviderID>258</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PALAZZANI</Name>
-    <ID>12545</ID>
+    <ID>259</ID>
     <ProviderID>259</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PAUS-HERMANN</Name>
-    <ID>12546</ID>
+    <ID>260</ID>
     <ProviderID>260</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PAZZAGLIA</Name>
-    <ID>12547</ID>
+    <ID>261</ID>
     <ProviderID>261</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PC PRODUZIONI</Name>
-    <ID>12548</ID>
+    <ID>262</ID>
     <ProviderID>262</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PELJOB</Name>
-    <ID>12549</ID>
+    <ID>263</ID>
     <ProviderID>263</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PENTA MOTER</Name>
-    <ID>12550</ID>
+    <ID>264</ID>
     <ProviderID>264</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PEZZOLATO</Name>
-    <ID>12551</ID>
+    <ID>265</ID>
     <ProviderID>265</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PICCHIO</Name>
-    <ID>12552</ID>
+    <ID>266</ID>
     <ProviderID>266</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PICCINI</Name>
-    <ID>12553</ID>
+    <ID>267</ID>
     <ProviderID>267</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PLATINUM LIFT</Name>
-    <ID>12554</ID>
+    <ID>268</ID>
     <ProviderID>268</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PORELLO</Name>
-    <ID>12555</ID>
+    <ID>269</ID>
     <ProviderID>269</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PORRELLO</Name>
-    <ID>12556</ID>
+    <ID>270</ID>
     <ProviderID>270</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>POWERFAB</Name>
-    <ID>12557</ID>
+    <ID>271</ID>
     <ProviderID>271</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>POWERPAC</Name>
-    <ID>12558</ID>
+    <ID>272</ID>
     <ProviderID>272</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PRESSOIL</Name>
-    <ID>12559</ID>
+    <ID>273</ID>
     <ProviderID>273</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PUTZMEISTER</Name>
-    <ID>12560</ID>
+    <ID>274</ID>
     <ProviderID>274</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RAMPICAR</Name>
-    <ID>12561</ID>
+    <ID>275</ID>
     <ProviderID>275</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RAYCO</Name>
-    <ID>12562</ID>
+    <ID>276</ID>
     <ProviderID>276</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RAYMAR</Name>
-    <ID>12563</ID>
+    <ID>277</ID>
     <ProviderID>277</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RENDERS</Name>
-    <ID>12564</ID>
+    <ID>278</ID>
     <ProviderID>278</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RIEBSAMEN</Name>
-    <ID>12565</ID>
+    <ID>279</ID>
     <ProviderID>279</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROCK</Name>
-    <ID>12566</ID>
+    <ID>280</ID>
     <ProviderID>280</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROCKY RAPID</Name>
-    <ID>12567</ID>
+    <ID>281</ID>
     <ProviderID>281</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROLATEC</Name>
-    <ID>12568</ID>
+    <ID>282</ID>
     <ProviderID>282</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROLBA</Name>
-    <ID>12569</ID>
+    <ID>283</ID>
     <ProviderID>283</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROSSI</Name>
-    <ID>12570</ID>
+    <ID>284</ID>
     <ProviderID>284</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROTAIR</Name>
-    <ID>12571</ID>
+    <ID>285</ID>
     <ProviderID>285</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ROTOMAX</Name>
-    <ID>12572</ID>
+    <ID>286</ID>
     <ProviderID>286</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RUFENER</Name>
-    <ID>12573</ID>
+    <ID>287</ID>
     <ProviderID>287</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RUTHMANN</Name>
-    <ID>12574</ID>
+    <ID>288</ID>
     <ProviderID>288</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SACET</Name>
-    <ID>12575</ID>
+    <ID>289</ID>
     <ProviderID>289</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SAMBRON</Name>
-    <ID>12576</ID>
+    <ID>290</ID>
     <ProviderID>290</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SAMSUNG</Name>
-    <ID>12577</ID>
+    <ID>291</ID>
     <ProviderID>291</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SAMURAI</Name>
-    <ID>12578</ID>
+    <ID>292</ID>
     <ProviderID>292</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SANDBERGER</Name>
-    <ID>12579</ID>
+    <ID>293</ID>
     <ProviderID>293</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SANDQUEEN UK</Name>
-    <ID>12580</ID>
+    <ID>294</ID>
     <ProviderID>294</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SATO</Name>
-    <ID>12581</ID>
+    <ID>295</ID>
     <ProviderID>295</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SATVIA</Name>
-    <ID>12582</ID>
+    <ID>296</ID>
     <ProviderID>296</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SCATTRACK</Name>
-    <ID>12583</ID>
+    <ID>297</ID>
     <ProviderID>297</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SCHAEFER</Name>
-    <ID>12584</ID>
+    <ID>298</ID>
     <ProviderID>298</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SCHAEFF</Name>
-    <ID>12585</ID>
+    <ID>299</ID>
     <ProviderID>299</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SCORPIO</Name>
-    <ID>12586</ID>
+    <ID>300</ID>
     <ProviderID>300</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SEDIDRILL</Name>
-    <ID>12587</ID>
+    <ID>301</ID>
     <ProviderID>301</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SENIC</Name>
-    <ID>12588</ID>
+    <ID>302</ID>
     <ProviderID>302</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SEQUANI</Name>
-    <ID>12589</ID>
+    <ID>303</ID>
     <ProviderID>303</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SHIBURA</Name>
-    <ID>12590</ID>
+    <ID>304</ID>
     <ProviderID>304</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SHIN-TOWA</Name>
-    <ID>12591</ID>
+    <ID>305</ID>
     <ProviderID>305</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SHOWA AIRCRAFT</Name>
-    <ID>12592</ID>
+    <ID>306</ID>
     <ProviderID>306</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SICOCU</Name>
-    <ID>12593</ID>
+    <ID>307</ID>
     <ProviderID>307</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SIJNJA </Name>
-    <ID>12594</ID>
+    <ID>308</ID>
     <ProviderID>308</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SIKA</Name>
-    <ID>12595</ID>
+    <ID>309</ID>
     <ProviderID>309</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SILEA</Name>
-    <ID>12596</ID>
+    <ID>310</ID>
     <ProviderID>310</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SILLA</Name>
-    <ID>12597</ID>
+    <ID>311</ID>
     <ProviderID>311</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SLANE International</Name>
-    <ID>12598</ID>
+    <ID>312</ID>
     <ProviderID>312</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SMAC</Name>
-    <ID>12599</ID>
+    <ID>313</ID>
     <ProviderID>313</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SMC</Name>
-    <ID>12600</ID>
+    <ID>314</ID>
     <ProviderID>314</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SMOPYC</Name>
-    <ID>12601</ID>
+    <ID>315</ID>
     <ProviderID>315</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SO.CA.CE</Name>
-    <ID>12602</ID>
+    <ID>316</ID>
     <ProviderID>316</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SOCOMAFOR</Name>
-    <ID>12603</ID>
+    <ID>317</ID>
     <ProviderID>317</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SOMA</Name>
-    <ID>12604</ID>
+    <ID>318</ID>
     <ProviderID>318</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>STANLEY</Name>
-    <ID>12605</ID>
+    <ID>319</ID>
     <ProviderID>319</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>STENUICK</Name>
-    <ID>12606</ID>
+    <ID>320</ID>
     <ProviderID>320</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>STRAIGHTLINE</Name>
-    <ID>12607</ID>
+    <ID>321</ID>
     <ProviderID>321</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>STRECK</Name>
-    <ID>12608</ID>
+    <ID>322</ID>
     <ProviderID>322</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>STUMPCUTTER</Name>
-    <ID>12609</ID>
+    <ID>323</ID>
     <ProviderID>323</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SUMITOMO</Name>
-    <ID>12610</ID>
+    <ID>324</ID>
     <ProviderID>324</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SUNWARD</Name>
-    <ID>12611</ID>
+    <ID>325</ID>
     <ProviderID>325</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SUP</Name>
-    <ID>12612</ID>
+    <ID>326</ID>
     <ProviderID>326</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SUPERTOY</Name>
-    <ID>12613</ID>
+    <ID>327</ID>
     <ProviderID>327</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TADANO</Name>
-    <ID>12614</ID>
+    <ID>328</ID>
     <ProviderID>328</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TAKEUCHI</Name>
-    <ID>12615</ID>
+    <ID>329</ID>
     <ProviderID>329</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TANAKA</Name>
-    <ID>12616</ID>
+    <ID>330</ID>
     <ProviderID>330</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TAYLORST. PLANT</Name>
-    <ID>12617</ID>
+    <ID>331</ID>
     <ProviderID>331</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TCM</Name>
-    <ID>12618</ID>
+    <ID>332</ID>
     <ProviderID>332</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TCP</Name>
-    <ID>12619</ID>
+    <ID>333</ID>
     <ProviderID>333</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TECNIWELL</Name>
-    <ID>12620</ID>
+    <ID>334</ID>
     <ProviderID>334</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TEKNA</Name>
-    <ID>12621</ID>
+    <ID>335</ID>
     <ProviderID>335</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TEREX</Name>
-    <ID>12622</ID>
+    <ID>336</ID>
     <ProviderID>336</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TERRA JET</Name>
-    <ID>12623</ID>
+    <ID>337</ID>
     <ProviderID>337</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TERRABOR</Name>
-    <ID>12624</ID>
+    <ID>338</ID>
     <ProviderID>338</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TERRAMITE</Name>
-    <ID>12625</ID>
+    <ID>339</ID>
     <ProviderID>339</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TES</Name>
-    <ID>12626</ID>
+    <ID>340</ID>
     <ProviderID>340</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TESCAR</Name>
-    <ID>12627</ID>
+    <ID>341</ID>
     <ProviderID>341</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>THOMAS</Name>
-    <ID>12628</ID>
+    <ID>342</ID>
     <ProviderID>342</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TIFERMEC</Name>
-    <ID>12629</ID>
+    <ID>343</ID>
     <ProviderID>343</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TOKYU</Name>
-    <ID>12630</ID>
+    <ID>344</ID>
     <ProviderID>344</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TOP TEC</Name>
-    <ID>12631</ID>
+    <ID>345</ID>
     <ProviderID>345</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TOPCAT</Name>
-    <ID>12632</ID>
+    <ID>346</ID>
     <ProviderID>346</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRACK MARSHALL</Name>
-    <ID>12633</ID>
+    <ID>347</ID>
     <ProviderID>347</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRACK STAR</Name>
-    <ID>12634</ID>
+    <ID>348</ID>
     <ProviderID>348</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRACKBULL</Name>
-    <ID>12635</ID>
+    <ID>349</ID>
     <ProviderID>349</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRACKMASTER</Name>
-    <ID>12636</ID>
+    <ID>350</ID>
     <ProviderID>350</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRAK</Name>
-    <ID>12637</ID>
+    <ID>351</ID>
     <ProviderID>351</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRAKLIFT</Name>
-    <ID>12638</ID>
+    <ID>352</ID>
     <ProviderID>352</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRAX</Name>
-    <ID>12639</ID>
+    <ID>353</ID>
     <ProviderID>353</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRAXMAX</Name>
-    <ID>12640</ID>
+    <ID>354</ID>
     <ProviderID>354</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TRS</Name>
-    <ID>12641</ID>
+    <ID>355</ID>
     <ProviderID>355</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TULSA</Name>
-    <ID>12642</ID>
+    <ID>356</ID>
     <ProviderID>356</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TURCHI</Name>
-    <ID>12643</ID>
+    <ID>357</ID>
     <ProviderID>357</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TZ</Name>
-    <ID>12644</ID>
+    <ID>358</ID>
     <ProviderID>358</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>UNIC</Name>
-    <ID>12645</ID>
+    <ID>359</ID>
     <ProviderID>359</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>UNIMOV</Name>
-    <ID>12646</ID>
+    <ID>360</ID>
     <ProviderID>360</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>UNKAUF</Name>
-    <ID>12647</ID>
+    <ID>361</ID>
     <ProviderID>361</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>UPRIGHT</Name>
-    <ID>12648</ID>
+    <ID>362</ID>
     <ProviderID>362</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>UTEX</Name>
-    <ID>12649</ID>
+    <ID>363</ID>
     <ProviderID>363</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>VEDI ELENCO</Name>
-    <ID>12650</ID>
+    <ID>364</ID>
     <ProviderID>364</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>VELCODRILL</Name>
-    <ID>12651</ID>
+    <ID>365</ID>
     <ProviderID>365</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>VENIERI</Name>
-    <ID>12652</ID>
+    <ID>366</ID>
     <ProviderID>366</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>VERMEER</Name>
-    <ID>12653</ID>
+    <ID>367</ID>
     <ProviderID>367</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>VNK CRANE EUROPE</Name>
-    <ID>12654</ID>
+    <ID>368</ID>
     <ProviderID>368</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>VOLVO</Name>
-    <ID>12655</ID>
+    <ID>369</ID>
     <ProviderID>369</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>WALDOW</Name>
-    <ID>12656</ID>
+    <ID>370</ID>
     <ProviderID>370</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>WINBULL</Name>
-    <ID>12657</ID>
+    <ID>371</ID>
     <ProviderID>371</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>WYSSEN</Name>
-    <ID>12658</ID>
+    <ID>372</ID>
     <ProviderID>372</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YAMAGUCHI</Name>
-    <ID>12659</ID>
+    <ID>373</ID>
     <ProviderID>373</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YAMAHA</Name>
-    <ID>12660</ID>
+    <ID>374</ID>
     <ProviderID>374</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YANMAR</Name>
-    <ID>12661</ID>
+    <ID>375</ID>
     <ProviderID>375</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YASHIMA</Name>
-    <ID>12662</ID>
+    <ID>376</ID>
     <ProviderID>376</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YGRY</Name>
-    <ID>12663</ID>
+    <ID>377</ID>
     <ProviderID>377</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YUCHAI</Name>
-    <ID>12664</ID>
+    <ID>378</ID>
     <ProviderID>378</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>YUTANI</Name>
-    <ID>12665</ID>
+    <ID>379</ID>
     <ProviderID>379</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ZAVATTINI</Name>
-    <ID>12666</ID>
+    <ID>380</ID>
     <ProviderID>380</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ZEPPELIN</Name>
-    <ID>12667</ID>
+    <ID>381</ID>
     <ProviderID>381</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ZHENYU</Name>
-    <ID>12668</ID>
+    <ID>382</ID>
     <ProviderID>382</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ZNTSIS BRZESKO</Name>
-    <ID>12669</ID>
+    <ID>383</ID>
     <ProviderID>383</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ECOFORE</Name>
-    <ID>12670</ID>
+    <ID>384</ID>
     <ProviderID>385</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PAUSELLI</Name>
-    <ID>12671</ID>
+    <ID>385</ID>
     <ProviderID>386</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
-    <Name>Camoplast</Name>
-    <ID>12672</ID>
-    <ProviderID>-2</ProviderID>
+    <Name>Camoplast Solideal</Name>
+    <ID>386</ID>
+    <ProviderID>0</ProviderID>
     <IsRetro>false</IsRetro>
   </Manufacturer>
   <Manufacturer>
     <Name>Minitop</Name>
-    <ID>12673</ID>
-    <ProviderID>-2</ProviderID>
+    <ID>387</ID>
+    <ProviderID>0</ProviderID>
     <IsRetro>false</IsRetro>
   </Manufacturer>
   <Manufacturer>
     <Name>AIRMANN</Name>
-    <ID>12674</ID>
+    <ID>388</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HS PENTA</Name>
-    <ID>12675</ID>
+    <ID>389</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HYDROMAC</Name>
-    <ID>12676</ID>
+    <ID>390</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ATLASCOPCO</Name>
-    <ID>12677</ID>
+    <ID>391</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>IMECA</Name>
-    <ID>12678</ID>
+    <ID>392</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>BENNY</Name>
-    <ID>12679</ID>
+    <ID>393</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>JOHN DEERE</Name>
-    <ID>12680</ID>
+    <ID>394</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CANYCOM</Name>
-    <ID>12681</ID>
+    <ID>395</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MESSERSI?</Name>
-    <ID>12682</ID>
+    <ID>396</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>MINITRACK</Name>
-    <ID>12683</ID>
+    <ID>397</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CATO</Name>
-    <ID>12684</ID>
+    <ID>398</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CATERPILLAR</Name>
-    <ID>12685</ID>
+    <ID>399</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ORENSTEIN &amp; KOPPEL</Name>
-    <ID>12686</ID>
+    <ID>400</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PEL</Name>
-    <ID>12687</ID>
+    <ID>401</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PENTAMOTER</Name>
-    <ID>12688</ID>
+    <ID>402</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RAPID</Name>
-    <ID>12689</ID>
+    <ID>403</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SANDQUEEN</Name>
-    <ID>12690</ID>
+    <ID>404</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SEDIDRIL</Name>
-    <ID>12691</ID>
+    <ID>405</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>SHIN</Name>
-    <ID>12692</ID>
+    <ID>406</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TEUPEN</Name>
-    <ID>12693</ID>
+    <ID>407</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CHIKUSUI</Name>
-    <ID>12694</ID>
+    <ID>408</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RUFENERKIPPER</Name>
-    <ID>12695</ID>
+    <ID>409</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ELEKTRO JOE</Name>
-    <ID>12696</ID>
+    <ID>410</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FIAT HITACHI</Name>
-    <ID>12697</ID>
+    <ID>411</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>OIL &amp; STEEL</Name>
-    <ID>12698</ID>
+    <ID>412</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>RIDING</Name>
-    <ID>12699</ID>
+    <ID>413</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TAYLOR</Name>
-    <ID>12700</ID>
+    <ID>414</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>TOA</Name>
-    <ID>12701</ID>
+    <ID>415</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>ECOMAT</Name>
-    <ID>12702</ID>
+    <ID>416</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>CELA</Name>
-    <ID>12703</ID>
+    <ID>417</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EAGLE TRAX</Name>
-    <ID>12704</ID>
+    <ID>418</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>HYDRORAIN</Name>
-    <ID>12705</ID>
+    <ID>419</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>LINK BELT</Name>
-    <ID>12706</ID>
+    <ID>420</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>PAUS</Name>
-    <ID>12707</ID>
+    <ID>421</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>EUROTRACH</Name>
-    <ID>12708</ID>
+    <ID>422</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FRESIA / RAMPICAR</Name>
-    <ID>12709</ID>
+    <ID>423</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
   <Manufacturer>
     <Name>FUJI</Name>
-    <ID>12710</ID>
+    <ID>424</ID>
     <ProviderID>-1</ProviderID>
-    <IsRetro>false</IsRetro>
+    <IsRetro />
   </Manufacturer>
 </Manufacturers>
