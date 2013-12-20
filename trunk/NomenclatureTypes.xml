@@ -1,0 +1,26 @@
+<NomenclatureTypes>
+  <NomenclatureOption>
+    <ID>1</ID>
+    <Name>Резиновая гусеница</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID />
+  </NomenclatureOption>
+  <NomenclatureOption>
+    <ID>4</ID>
+    <Name>Сервис-комплекты</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID />
+  </NomenclatureOption>
+  <NomenclatureOption>
+    <ID>5</ID>
+    <Name>Yanmar</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>4</ParentID>
+  </NomenclatureOption>
+  <NomenclatureOption>
+    <ID>6</ID>
+    <Name>Komatsu</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>4</ParentID>
+  </NomenclatureOption>
+</NomenclatureTypes>
