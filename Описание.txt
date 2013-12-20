@@ -1,0 +1,9 @@
+Manufacturers.xml - список производителей
+Model2Nomenclatures.xml - связь производитель-модель
+Models.xml - список моделей
+NomenclatureOptions.xml - "устарел" 
+NomenclatureTypes.xml - список типов номенклатур (дерево)
+Nomenclatures.xml - список номенклатур
+Options.xml - список параметров номенклатур
+ValueNomenclatureOptions.xml - "устерел"
+ValueOptions.xml - список значений параметров номенклатур
