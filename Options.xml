@@ -1,0 +1,308 @@
+﻿<Options>
+  <Option>
+    <ID>30</ID>
+    <Name>Производитель</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>31</ID>
+    <Name>Ширина</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>32</ID>
+    <Name>Радиус</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>33</ID>
+    <Name>Зимняя</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>5</DataType>
+  </Option>
+  <Option>
+    <ID>34</ID>
+    <Name>Наименование производителя</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>35</ID>
+    <Name>Резиновый гусеницы</Name>
+    <IsRetro>false</IsRetro>
+    <DataType />
+  </Option>
+  <Option>
+    <ID>36</ID>
+    <Name>Техника</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>6</DataType>
+  </Option>
+  <Option>
+    <ID>37</ID>
+    <Name>Рабочий вес</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>8</ID>
+    <Name>Высота</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>9</ID>
+    <Name>Шаблон протектора</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>10</ID>
+    <Name>Масса</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>11</ID>
+    <Name>Ширина гусеницы</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>12</ID>
+    <Name>Guiding</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>13</ID>
+    <Name>Усиленная</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>5</DataType>
+  </Option>
+  <Option>
+    <ID>14</ID>
+    <Name>Ширина дорожки</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>15</ID>
+    <Name>Шаг звена</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>16</ID>
+    <Name>Количество звеньев</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>17</ID>
+    <Name>Metal piece</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>18</ID>
+    <Name>PID</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>19</ID>
+    <Name>OEM</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>5</DataType>
+  </Option>
+  <Option>
+    <ID>20</ID>
+    <Name>Наименование Camoplast</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>21</ID>
+    <Name>A</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>22</ID>
+    <Name>B</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>23</ID>
+    <Name>C</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>24</ID>
+    <Name>D</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>25</ID>
+    <Name>E</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>26</ID>
+    <Name>F</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>27</ID>
+    <Name>Z</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>28</ID>
+    <Name>W</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>29</ID>
+    <Name>H</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+  <Option>
+    <ID>38</ID>
+    <Name>Модель двигателя</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>39</ID>
+    <Name>Номинальная мощность двигателя</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>40</ID>
+    <Name>Объем двигателя</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>41</ID>
+    <Name>Макс. крутящий момент</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>42</ID>
+    <Name>Глубина копания</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>43</ID>
+    <Name>Высота погрузки</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>44</ID>
+    <Name>Сила резания ковша</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>45</ID>
+    <Name>Способность работы на уклоне</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>5</DataType>
+  </Option>
+  <Option>
+    <ID>46</ID>
+    <Name>Сила резания стрелы</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>47</ID>
+    <Name>Ширина ковша</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>48</ID>
+    <Name>Объем ковша</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>49</ID>
+    <Name>Давление на грунт</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>50</ID>
+    <Name>Ширина башмака</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>51</ID>
+    <Name>Клиренс</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>52</ID>
+    <Name>Нож (ширина х высота)</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>4</DataType>
+  </Option>
+  <Option>
+    <ID>53</ID>
+    <Name>Объем бака</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>54</ID>
+    <Name>Уровень шума LwA</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>55</ID>
+    <Name>Ширина</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>56</ID>
+    <Name>Высота</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>57</ID>
+    <Name>Длина</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>0</DataType>
+  </Option>
+  <Option>
+    <ID>58</ID>
+    <Name>Скорость передвижения</Name>
+    <IsRetro>false</IsRetro>
+    <DataType>1</DataType>
+  </Option>
+</Options>

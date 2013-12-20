@@ -1,26 +1,74 @@
-<NomenclatureTypes>
-  <NomenclatureOption>
+﻿<NomenclatureTypes>
+  <Option>
     <ID>1</ID>
     <Name>Резиновая гусеница</Name>
     <IsRetro>false</IsRetro>
     <ParentID />
-  </NomenclatureOption>
-  <NomenclatureOption>
-    <ID>4</ID>
-    <Name>Сервис-комплекты</Name>
+  </Option>
+  <Option>
+    <ID>7</ID>
+    <Name>Техника</Name>
     <IsRetro>false</IsRetro>
     <ParentID />
-  </NomenclatureOption>
-  <NomenclatureOption>
-    <ID>5</ID>
+  </Option>
+  <Option>
+    <ID>8</ID>
+    <Name>Запасные части</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID />
+  </Option>
+  <Option>
+    <ID>9</ID>
+    <Name>Расходные материалы</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID />
+  </Option>
+  <Option>
+    <ID>10</ID>
+    <Name>Шина</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID />
+  </Option>
+  <Option>
+    <ID>11</ID>
     <Name>Yanmar</Name>
     <IsRetro>false</IsRetro>
-    <ParentID>4</ParentID>
-  </NomenclatureOption>
-  <NomenclatureOption>
-    <ID>6</ID>
+    <ParentID>7</ParentID>
+  </Option>
+  <Option>
+    <ID>12</ID>
     <Name>Komatsu</Name>
     <IsRetro>false</IsRetro>
-    <ParentID>4</ParentID>
-  </NomenclatureOption>
+    <ParentID>7</ParentID>
+  </Option>
+  <Option>
+    <ID>13</ID>
+    <Name>Takeuchi</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>7</ParentID>
+  </Option>
+  <Option>
+    <ID>14</ID>
+    <Name>Миниэкскаваторы</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>7</ParentID>
+  </Option>
+  <Option>
+    <ID>15</ID>
+    <Name>Гусеничные погрузчики</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>7</ParentID>
+  </Option>
+  <Option>
+    <ID>16</ID>
+    <Name>Каток</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>8</ParentID>
+  </Option>
+  <Option>
+    <ID>17</ID>
+    <Name>Звезда</Name>
+    <IsRetro>false</IsRetro>
+    <ParentID>9</ParentID>
+  </Option>
 </NomenclatureTypes>

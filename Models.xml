@@ -1,17 +1,17 @@
-<Models>
+﻿<Models>
   <Model>
     <Name>FR 300AA (Crane)</Name>
     <ID>1</ID>
     <ProviderID>241</ProviderID>
     <ManufacturerID>1</ManufacturerID>
-    <IsRetro />
+    <IsRetro>false</IsRetro>
   </Model>
   <Model>
     <Name>HTC 500 (Dumper)</Name>
     <ID>2</ID>
     <ProviderID>1</ProviderID>
     <ManufacturerID>2</ManufacturerID>
-    <IsRetro />
+    <IsRetro>false</IsRetro>
   </Model>
   <Model>
     <Name>ME 040</Name>
@@ -38196,7 +38196,7 @@
     <ID>5457</ID>
     <ProviderID>5662</ProviderID>
     <ManufacturerID>375</ManufacturerID>
-    <IsRetro />
+    <IsRetro>false</IsRetro>
   </Model>
   <Model>
     <Name>SV 09</Name>
